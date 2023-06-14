@@ -1,1 +1,2 @@
 Hello World!
+Checking out the new commit message settings.
